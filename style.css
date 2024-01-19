@@ -1,0 +1,15 @@
+.black{
+    background-color: black;
+    color: aqua;
+}
+ 
+
+.hh{
+    width: 350px;
+    height: 300px;
+}
+
+.contact-section{
+
+    background-image: url(main.jpg);background-size: 100%;background-repeat: no-repeat;
+}
